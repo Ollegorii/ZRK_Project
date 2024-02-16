@@ -1,0 +1,4 @@
+This is my C++ project that I did in university in teams. 
+The project was created to simulate the flight of various flying objects and shoot them down with the help of air defense systems. The project also uses QGis graphics and sql databases
+
+In the written application, a map opens on which you can select and place anti-aircraft missile systems. Different types of missiles with different speeds and ranges can be matched to these complexes. Then you can plot a route for the plane on the map. The aircraft can also be selected with different flight characteristics. If the flight path of the aircraft falls into the detection zone of the air defense system, a missile will be fired at it while simulating the flight of the aircraft near the missile complex. If the missile catches up with the plane, it can shoot it down.
